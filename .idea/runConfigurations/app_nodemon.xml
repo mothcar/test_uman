@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="app@nodemon" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/AppData/Roaming/npm/nodemon.cmd" path-to-js-file="simpleoutput.js" working-dir="$PROJECT_DIR$">
+    <envs>
+      <env name="DEBUG" value="std_coffee" />
+    </envs>
+    <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" start="true" url="http://localhost:3000/" />
+    <RunnerSettings RunnerId="Basic" />
+    <ConfigurationWrapper RunnerId="Basic" />
+    <method />
+  </configuration>
+</component>
